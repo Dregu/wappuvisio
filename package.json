@@ -1,0 +1,25 @@
+{
+  "name": "wappuvisio",
+  "version": "1.0.0",
+  "description": "Wappuradion studiotelkkari",
+  "main": "wappuvisio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dregu/wappuvisio.git"
+  },
+  "author": "Dregu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dregu/wappuvisio/issues"
+  },
+  "homepage": "https://github.com/Dregu/wappuvisio#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "irc": "^0.4.1",
+    "moment": "^2.11.2",
+    "request": "^2.69.0"
+  }
+}
